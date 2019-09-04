@@ -1,6 +1,6 @@
 # SIFBootCamp-Java
 
-Bootcamp Setup and Resources for Java
+SIF (AU) 3.x Bootcamp Setup and Resources for Java
 
 ## Prerequisites and requirements
 
